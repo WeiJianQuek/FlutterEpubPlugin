@@ -1,0 +1,20 @@
+name: epub_plugin
+description: A plugin that provide all the feature needed to view an Epub
+version: 0.0.1
+homepage: https://github.com/WeiJianQuek/FlutterEpubPlugin
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
