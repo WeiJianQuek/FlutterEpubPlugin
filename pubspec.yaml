@@ -11,6 +11,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+  archive: ^3.3.4
+
+  xml: ^6.0.0
+
+  flutter_html: ^3.0.0-alpha.6
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
